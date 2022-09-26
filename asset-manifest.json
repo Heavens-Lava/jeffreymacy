@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.c8ceebcd.css",
-    "main.js": "/my-portfolio/static/js/main.420449ef.js",
-    "static/media/rocks.jpg": "/my-portfolio/static/media/rocks.e34dcb15d9824d2d8779.jpg",
-    "static/media/nature.jpg": "/my-portfolio/static/media/nature.8bae76d14898f7bff157.jpg",
-    "static/media/heroImage.png": "/my-portfolio/static/media/heroImage.1dc20dea09dc58b14c69.png",
-    "static/media/arrayDestruct.jpg": "/my-portfolio/static/media/arrayDestruct.84671dfd109d4de76bae.jpg",
-    "static/media/react.png": "/my-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/github.png": "/my-portfolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/my-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/my-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/my-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/javascript.png": "/my-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/my-portfolio/index.html",
-    "main.c8ceebcd.css.map": "/my-portfolio/static/css/main.c8ceebcd.css.map",
-    "main.420449ef.js.map": "/my-portfolio/static/js/main.420449ef.js.map"
+    "main.css": "/jeffreymacy/static/css/main.c8ceebcd.css",
+    "main.js": "/jeffreymacy/static/js/main.d09b450b.js",
+    "static/media/rocks.jpg": "/jeffreymacy/static/media/rocks.e34dcb15d9824d2d8779.jpg",
+    "static/media/nature.jpg": "/jeffreymacy/static/media/nature.8bae76d14898f7bff157.jpg",
+    "static/media/heroImage.png": "/jeffreymacy/static/media/heroImage.1dc20dea09dc58b14c69.png",
+    "static/media/arrayDestruct.jpg": "/jeffreymacy/static/media/arrayDestruct.84671dfd109d4de76bae.jpg",
+    "static/media/react.png": "/jeffreymacy/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/jeffreymacy/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/jeffreymacy/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/jeffreymacy/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/jeffreymacy/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/jeffreymacy/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/jeffreymacy/index.html",
+    "main.c8ceebcd.css.map": "/jeffreymacy/static/css/main.c8ceebcd.css.map",
+    "main.d09b450b.js.map": "/jeffreymacy/static/js/main.d09b450b.js.map"
   },
   "entrypoints": [
     "static/css/main.c8ceebcd.css",
-    "static/js/main.420449ef.js"
+    "static/js/main.d09b450b.js"
   ]
 }
